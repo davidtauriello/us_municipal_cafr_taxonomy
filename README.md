@@ -1,7 +1,7 @@
 # US Municipal CAFR Taxonomy
 ## Proposed XBRL taxonomy for audited financial statements produced by US state and local governments
 
-About 30,000 US state and local governments produce audited financial statements each year. Because these financial reports typically appear in PDF format, they are difficult to analyze and compare. By tranisitioning from PDFs to machine readable disclosures, we can ultimately create a publicly accessible database of audited government financial statistics.
+About 30,000 US state and local governments produce audited financial statements each year. Because these financial reports typically appear in PDF format, they are difficult to analyze and compare. By tranisitioning from PDFs to machine readable disclosures, we can ultimately create a publicly accessible database of audited state and local government financial statistics.
 
 The proposed taxonomy in this repository is a first step in this transition. We offer it to the community of statement filers and consumers for review, comment and improvement.
 
