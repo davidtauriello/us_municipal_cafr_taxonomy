@@ -15,4 +15,6 @@ A copy of the taxonomy is also online at http://www.govwiki.info/xbrl/2018-04-30
 
 You can see previous advocacy of municipal CAFR XBRL from 2013 [here](http://tabbforum.com/opinions/the-case-for-muni-xbrl-bringing-municipal-financial-disclosure-into-the-21st-century) and 2015 [here](http://www.governing.com/gov-institute/voices/col-missing-information-municipal-bond-investors-need.html).
 
+_Update June 24, 2018: An alternate taxonomy developed by IRIS Business addressing the same scope has been added to the repository. IRIS Business reviewed multiple Florida CAFRs and used Data Point Modeling to build this taxonomy._
+
 For more information about this project, or to volunteer, please contact Marc Joffe at marc@municipalfinance.org.
