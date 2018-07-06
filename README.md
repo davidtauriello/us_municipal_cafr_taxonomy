@@ -1,7 +1,7 @@
 # US Municipal CAFR Taxonomy
 ## Proposed XBRL taxonomy for audited financial statements produced by US state and local governments
 
-About 30,000 US state and local governments produce audited financial statements each year. Because these financial reports typically appear in PDF format, they are difficult to analyze and compare. By tranisitioning from PDFs to machine readable disclosures, we can ultimately create a publicly accessible database of audited government financial statistics.
+About 30,000 US state and local governments produce audited financial statements each year. Because these financial reports typically appear in PDF format, they are difficult to analyze and compare. By tranisitioning from PDFs to machine readable disclosures, we can ultimately create a publicly accessible database of audited state and local government financial statistics.
 
 The proposed taxonomy in this repository is a first step in this transition. We offer it to the community of statement filers and consumers for review, comment and improvement.
 
@@ -14,5 +14,7 @@ The taxonomy is based on a peer reviewed article published by Professors Neal Sn
 A copy of the taxonomy is also online at http://www.govwiki.info/xbrl/2018-04-30/us-cafr-2018-04-30.xsd thereby allowing for validation of instance douments on [Arelle](http://www.arelle.org) or other XBRL platforms.
 
 You can see previous advocacy of municipal CAFR XBRL from 2013 [here](http://tabbforum.com/opinions/the-case-for-muni-xbrl-bringing-municipal-financial-disclosure-into-the-21st-century) and 2015 [here](http://www.governing.com/gov-institute/voices/col-missing-information-municipal-bond-investors-need.html).
+
+_Update June 24, 2018: An alternate taxonomy developed by IRIS Business addressing the same scope has been added to the repository. IRIS Business reviewed multiple Florida CAFRs and used Data Point Modeling to build this taxonomy._
 
 For more information about this project, or to volunteer, please contact Marc Joffe at marc@municipalfinance.org.
